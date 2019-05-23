@@ -1,0 +1,1 @@
+execute as @e[tag=M2] run teleport @p @s
